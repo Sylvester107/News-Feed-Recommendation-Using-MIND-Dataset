@@ -1,0 +1,6 @@
+venv
+./venv
+.venv
+environment-setup_py.bash
+MINDsmall_train
+MINDsmall_dev
